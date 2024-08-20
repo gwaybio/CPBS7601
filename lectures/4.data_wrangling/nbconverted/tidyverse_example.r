@@ -62,7 +62,6 @@ drug_screen_results_df <- drug_screen_results_df %>%
 ## Step 2 - Select drugs with known MOA
 compounds_with_known_MOA <- compound_id_df %>%
     dplyr::filter(!is.na(MOA)) %>%
-    dplyr::distinct(MOA,.keep_all = TRUE) %>%
     dplyr::pull(IDs)
 
 # Step 3 - Filter drug screen data to only include compounds with known MOA
@@ -72,7 +71,12 @@ drug_screen_results_df <- drug_screen_results_df %>%
 # Step 4 - Split cell line column to separate name from cancer type
 # and keep only certain columns
 cellline_id_df <- cellline_id_df %>%
-  tidyr::separate(ccle_name, into = c("cell_line", "cancer_type"), sep = "_") %>%
+  tidyr::separate(
+    ccle_name,
+    into = c("cell_line", "cancer_type"),
+    sep = "_",
+    extra = "merge"
+    ) %>%
   dplyr::select(cell_line, cancer_type, depmap_id) %>%
   dplyr::distinct()
 
@@ -84,12 +88,15 @@ compound_id_df <- compound_id_df %>%
 # Filter drug screen data to only include data from pancreatic and liver cancers
 select_cancer_types <- c("PANCREAS", "LIVER")
 
-pancreatic_cancer_depmap_ids <- cellline_id_df %>%
+select_cancer_depmap_ids <- cellline_id_df %>%
   dplyr::filter(cancer_type %in% !!select_cancer_types) %>%
   dplyr::pull(depmap_id)
 
 drug_screen_results_df <- drug_screen_results_df %>%
-    dplyr::select("BRD_ID", !!pancreatic_cancer_depmap_ids)
+    dplyr::select("BRD_ID", !!select_cancer_depmap_ids)
+
+print(dim(drug_screen_results_df))
+head(drug_screen_results_df, 3)
 
 # Pivot wide data to long data
 drug_screen_results_long_df <- drug_screen_results_df %>%
@@ -133,7 +140,12 @@ for (moa in unique_MOAs) {
         dplyr::pull(response)
 
     # Calculate t-test
-    t_test_result <- t.test(pancreatic_response, liver_response)
+    t_test_result <- t.test(
+        pancreatic_response,
+        liver_response,
+        alternative = "two.sided",
+        var.equal = FALSE
+        )
 
     # Store results
     ttest_results[[moa]] <- c(
