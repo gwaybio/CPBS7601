@@ -5,4 +5,5 @@
 *.Rproj
 .Rhistory
 .RData
+*__pycache__/
 *.snakemake
