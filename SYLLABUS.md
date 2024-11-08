@@ -33,18 +33,19 @@ If additional university supplied tools are necessary, please contact the instru
 
 All materials are available on GitHub with permissive open source licenses
 
-| Repository | Purpose |
-| :--------- | :------ |
+| Repository                              | Purpose          |
+| :-------------------------------------- | :--------------- |
 | https://github.com/WayScience/CPBS7601/ | Course materials |
-| https://github.com/WayScience/sandbox | Learning GitHub |
+| https://github.com/WayScience/sandbox   | Learning GitHub  |
 
 ## Extra credit
 
 We will not accept extra credit assignments.
 
 ## Late policies
-We will accommodate reasonable requests for extension of project deadlines due to personal hardships. 
-Please contact Dr. Way with these requests. 
+
+We will accommodate reasonable requests for extension of project deadlines due to personal hardships.
+Please contact Dr. Way with these requests.
 Ideally, requests should be made at least two days before the deadline.
 
 ## Course objectives
@@ -53,8 +54,8 @@ To introduce the skills needed to perform reproducible and high quality computat
 
 ## Recommended pre-reading
 
-- Sandve et al. `Ten Simple Rules for Reproducible Computational Research`. 2013. PLoS Computational Biology. https://doi.org/10.1371/journal.pcbi.1003285 
-- Hadley Wickham. `Tidy Data`. 2014. Journal of Statistical Software. https://www.jstatsoft.org/article/view/v059i10 
+- Sandve et al. `Ten Simple Rules for Reproducible Computational Research`. 2013. PLoS Computational Biology. https://doi.org/10.1371/journal.pcbi.1003285
+- Hadley Wickham. `Tidy Data`. 2014. Journal of Statistical Software. https://www.jstatsoft.org/article/view/v059i10
 
 ## Course schedule
 
@@ -192,7 +193,7 @@ Each student will create a short, 3-minute presentation consisting of three slid
 
 This project will help you gain exposure to new tools in the field, develop your ability to quickly assess software packages, and enhance your presentation skills.
 
-### Presentation Grading: 
+### Presentation Grading:
 
 You will be graded on completeness and adherence to guidelines (e.g., timing, content, etc.).
 
@@ -206,9 +207,9 @@ There are three assignments in this course:
 
 ### Approach
 
-We will review the assignment in detail after each relevant lecture. 
-The second half of the lecture will be optional. 
-However, we encourage folks to stick around to work on their assignment. 
+We will review the assignment in detail after each relevant lecture.
+The second half of the lecture will be optional.
+However, we encourage folks to stick around to work on their assignment.
 We will be easily accessible then to answer any questions.
 The TAs will grade each assignment using the scale below.
 Please follow all instructions carefully!
@@ -217,12 +218,12 @@ Please follow all instructions carefully!
 
 All assignments will be graded on a 1-4 point scale with the following criteria:
 
-| Point | Description | Level | Criteria |
-|-------|-------------|-------|----------|
-| 4     | Advanced Understanding | Exceeds expectations | Answers every part of the question in great detail. Gives additional information, perspective, or ideas (i.e., Example from class, example from personal work experience, additional detail). Cites references. |
-| 3     | Proficient Understanding | Meets expectations   | Answers the question in full without additional detail.|
-| 2     | Partial Understanding  | Partial understanding | Understands parts of the question. Does not fully answer the question. |
-| 1     | Minimal Understanding  | Minimal understanding | It is clear there is minimal understanding of the topic. Does not answer most of the question. |
+| Point | Description              | Level                 | Criteria                                                                                                                                                                                                        |
+| ----- | ------------------------ | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 4     | Advanced Understanding   | Exceeds expectations  | Answers every part of the question in great detail. Gives additional information, perspective, or ideas (i.e., Example from class, example from personal work experience, additional detail). Cites references. |
+| 3     | Proficient Understanding | Meets expectations    | Answers the question in full without additional detail.                                                                                                                                                         |
+| 2     | Partial Understanding    | Partial understanding | Understands parts of the question. Does not fully answer the question.                                                                                                                                          |
+| 1     | Minimal Understanding    | Minimal understanding | It is clear there is minimal understanding of the topic. Does not answer most of the question.                                                                                                                  |
 
 ## Course policies
 
@@ -231,19 +232,19 @@ We, as members of the AMC Community, strive to be innovative and curious in our 
 Especially, given our commitment to improving health and biomedical research, we are responsible to approach the use of these tools with integrity and professionalism.
 
 1. Never enter identifiable patient data/information into third party tools.
-2. If using tools to assist with clinical decision-making, ensure these are approved by the health system and based on best available evidence.
-3. Familiarize yourself with the pitfalls of various tools such as bias, hallucinations, incorrect information.
-4. Be vigilant about the presence of biases in work generated by AI/ML; strive to mitigate the dissemination of these biases.
-5. Avoid use of AI/ML to replace successful, evidence-based study strategies given concern these tools may negatively impact learning.
-6. Critically evaluate any AI/ML generated responses with knowledge from course work and other resources.
-7. Be honest and transparent about the use of AI and ML tools in curricular work such as studying and assignments. Citation of use should include name of the specific tool (and version) used and how it was used (outline generation, first draft, final draft). Ex: ChatGPT, v4 was used to generate an outline for this paper.
-8. Failure to cite use of outside tools may be considered plagiarism and will be addressed in the same way other academic professionalism lapses would be.
-9. Do not use AI/ML tools to gain advantage over your classmates.
-10. Approach new technology and tools with curiosity.
+1. If using tools to assist with clinical decision-making, ensure these are approved by the health system and based on best available evidence.
+1. Familiarize yourself with the pitfalls of various tools such as bias, hallucinations, incorrect information.
+1. Be vigilant about the presence of biases in work generated by AI/ML; strive to mitigate the dissemination of these biases.
+1. Avoid use of AI/ML to replace successful, evidence-based study strategies given concern these tools may negatively impact learning.
+1. Critically evaluate any AI/ML generated responses with knowledge from course work and other resources.
+1. Be honest and transparent about the use of AI and ML tools in curricular work such as studying and assignments. Citation of use should include name of the specific tool (and version) used and how it was used (outline generation, first draft, final draft). Ex: ChatGPT, v4 was used to generate an outline for this paper.
+1. Failure to cite use of outside tools may be considered plagiarism and will be addressed in the same way other academic professionalism lapses would be.
+1. Do not use AI/ML tools to gain advantage over your classmates.
+1. Approach new technology and tools with curiosity.
 
 _Accommodation statement_
 The University of Colorado Anschutz Medical Campus is committed to providing equitable access to our programs for students with disabilities (e.g., psychological, attentional, learning, chronic health, sensory, and physical).
-To engage in a confidential conversation about the process for requesting reasonable accommodations in the classroom and clinical settings please contact The Office of Disability, Access, & Inclusion at: disabilityaccess@cuanschutz.edu or begin the process via the website. 
+To engage in a confidential conversation about the process for requesting reasonable accommodations in the classroom and clinical settings please contact The Office of Disability, Access, & Inclusion at: disabilityaccess@cuanschutz.edu or begin the process via the website.
 Accommodations are not provided retroactively, therefore, students are encouraged to begin this process early.
 
 _Religious observances_
@@ -253,10 +254,10 @@ If this applies to you, please speak with me directly as soon as possible at the
 _Classroom behavior_
 Students and faculty each have responsibility for maintaining an appropriate learning environment.
 Those who fail to adhere to such behavioral standards may be subject to discipline.
-Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with differences of race, color, culture, religion, creed, politics, veteran’s status, sexual orientation, gender, gender identity and gender expression, age, ability, and nationality. 
+Professional courtesy and sensitivity are especially important with respect to individuals and topics dealing with differences of race, color, culture, religion, creed, politics, veteran’s status, sexual orientation, gender, gender identity and gender expression, age, ability, and nationality.
 Class rosters are provided to the instructor with the student's legal name.
 I will honor your request to address you by an alternate name or gender pronoun.
-Please advise me of this preference early in the semester so that I may make appropriate changes to my records.  
+Please advise me of this preference early in the semester so that I may make appropriate changes to my records.
 
 _Discrimination and harassment_
 The University of Colorado Denver (CU-Denver) is committed to maintaining a positive learning, working, and living environment.
