@@ -15,3 +15,4 @@ We provide links to these resources below.
 | [5.Workflows and orchestration](https://docs.google.com/presentation/d/1RSY-eH6Au_LtbJIQuOfYFPspQnZFwFjnhuS9rgjX1Nw/edit#slide=id.p)      | Workflow mindset and management                              |
 | [6.Data visualization](https://docs.google.com/presentation/d/1vcLDZXQTOZOBxCJRP70Dmwt2PIfgPKsKE_Ek0M1evfM/edit#slide=id.p)               | Tips, tricks, and principles for data visualization          |
 | [7.Interactive data anlaysis](https://docs.google.com/presentation/d/1Isgawc97E8SPH2Ra07QoIOcmQQPsEnrSzZa3exd17oE/edit#slide=id.p)        | Concepts and pratical tips for interactive data analysis     |
+| [8.Documentation and readability](https://docs.google.com/presentation/d/1DyixgDhdmu6GA_ffX7lreRRgRM_9usbKa6RAGfWwPMk/edit#slide=id.g30979671633_0_24) | Tips and tricks on how to write effective documentation
