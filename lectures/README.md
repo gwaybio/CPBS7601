@@ -17,3 +17,4 @@ We provide links to these resources below.
 | [7.Interactive data anlaysis](https://docs.google.com/presentation/d/1Isgawc97E8SPH2Ra07QoIOcmQQPsEnrSzZa3exd17oE/edit#slide=id.p)                     | Concepts and pratical tips for interactive data analysis     |
 | [8.Documentation and readability](https://docs.google.com/presentation/d/1DyixgDhdmu6GA_ffX7lreRRgRM_9usbKa6RAGfWwPMk/edit#slide=id.g30979671633_0_24) | Tips and tricks on how to write effective documentation      |
 | [9.R and Python Packaging](https://docs.google.com/presentation/d/1MtMec4VsRhcy65jKVXaxAgeLY4VzKXN0VnrahLdUtRA/edit#slide=id.p)                        | R and Python packaging                                       |
+| [10.HPC and Parallel Computing](https://docs.google.com/presentation/d/1TRMKEXlIB0ZoYuf7h60TidJwtKtB2b2j_8U_JZkY8uA/edit#slide=id.p1) | Hardware, parallel computing, and Alpine HPC |
