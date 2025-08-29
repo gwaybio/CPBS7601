@@ -3,9 +3,9 @@
 ## Course information
 
 - CPBS 7601 - Computing Skills in Biomedical Sciences
-- Dates: November 4th-20th, 2024
-- Meetings: 2-4pm M-F
-- Location: Anschutz Health Sciences Building (AHSB) P12 4th floor Room 4002
+- Dates: October 6th-23th, 2025
+- Meetings: 11:30-1:30pm M-F
+- Location: RC1 South, Room 4107
 
 ## Instructor information
 
@@ -13,30 +13,28 @@
 - Office location: ASHB P12-6275
 - Office hours: By appointment
 - Contact: gregory.way "at" cuanschutz "dot" edu
-- Teaching Assistants: Jade Young
-- TA contact: jade.young "at" cuanschutz "dot" edu
+- Teaching Assistants: Jill Hoffman
+- TA contact: jill.hoffman "at" cuanschutz "dot" edu
 - TA office hours: Immediately following each regular class
 
 ## Prerequisites
 
 This course is intended for students from the Computational Biosciences, Computational Neuroscience, Human Medical Genetics and Genomics, and related programs where student research will be primarily computational.
-Students are required to have proficiency in coding (2+ years in R, python or equivalent) and have taken relevant computational coursework (or equivalent per instructor’s consent).
-If you are outside the programs listed above, please consult with the instructor before enrolling to assess fit.
+Students are required to have proficiency in coding (2+ years in R, python or equivalent), command line interfaces, and have taken relevant computational coursework (or equivalent per instructor’s consent).
+If you are outside the programs listed above or if you have questions on any prerequisite, please consult with the instructor before enrolling to assess fit.
 
 ## Requirements
 
 Access to a computer with an internet connection and the ability to create programs.
-In general, you will need access to the computational resources necessary to perform hands-on exercises.
-If additional university supplied tools are necessary, please contact the instructor as soon as possible.
+In general, you will need access to the computational resources necessary to perform hands-on exercises. If additional university supplied tools are necessary, please contact the instructor as soon as possible.
 
-## GitHub repositories
+## GitHub repository
 
 All materials are available on GitHub with permissive open source licenses
 
 | Repository                              | Purpose          |
 | :-------------------------------------- | :--------------- |
 | https://github.com/WayScience/CPBS7601/ | Course materials |
-| https://github.com/WayScience/sandbox   | Learning GitHub  |
 
 ## Extra credit
 
@@ -51,6 +49,16 @@ Ideally, requests should be made at least two days before the deadline.
 ## Course objectives
 
 To introduce the skills needed to perform reproducible and high quality computational research in biomedical sciences.
+
+## Course expectations
+
+The course should be fun, not a chore.
+You are a PhD student, and you need to drive your own education.
+Therefore, it is up to you to determine how much you want to get out of the course.
+The hands-on materials and assignments should not take you longer than two hours, and they should not be stressful.
+If it is taking you longer than two hours, you are either being too much of a perfectionist or you are having too much fun, which is fine.
+You should be respectful of all people in the course; show up on time, ask questions, engage with the material, and help your neighbor.
+Communicate with the instructor for any expected course absences or assignment extensions.
 
 ## Recommended pre-reading
 
@@ -77,7 +85,7 @@ To introduce the skills needed to perform reproducible and high quality computat
 
 ### Lecture 3: Computational environments
 
-- What is an integrated development environment (IDE) with examples (e.g., VSCode, RStudio)
+- What is an integrated development environment (IDE)?
 - Jupyter notebooks theory and practice
 - Understanding virtual machines and isolated environments (e.g., Conda)
 - Introduction to containers (e.g., Docker)
@@ -164,7 +172,7 @@ Each student will create a short, 3-minute presentation consisting of three slid
 
 **Objective:** To discover and explore an open source software package that you were not familiar with before this assignment.
 
-_"If you are spending more than 1 hour preparing the presentation, you are either over-doing it or having too much fun, which is Okay"_ -- Greg 
+_"If you are spending more than 1 hour preparing the presentation, you are either over-doing it or having too much fun, which is Okay"_ -- Greg
 
 ### Presentation requirements:
 
