@@ -1,4 +1,4 @@
-# CPBS7601
+# CPBS7601 - Maximizing reproducibility in computational biology
 
 Course on computing skills in bioinformatics for CU Anschutz PhD Students.
 
