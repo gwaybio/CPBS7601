@@ -19,7 +19,7 @@
 
 ## Prerequisites
 
-This course is intended for students from the Computational Biosciences, Computational Neuroscience, Human Medical Genetics and Genomics, and related programs where student research will be primarily computational.
+This course is intended for students from the Computational Biosciences, Neuroscience, Human Medical Genetics and Genomics, and related programs where student research will be primarily computational.
 Students are required to have proficiency in coding (2+ years in R, python or equivalent), command line interfaces, and have taken relevant computational coursework (or equivalent per instructor’s consent).
 If you are outside the programs listed above or if you have questions on any prerequisite, please consult with the instructor before enrolling to assess fit.
 
