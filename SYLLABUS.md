@@ -28,6 +28,20 @@ If you are outside the programs listed above or if you have questions on any pre
 Access to a computer with an internet connection and the ability to create programs.
 In general, you will need access to the computational resources necessary to perform hands-on exercises. If additional university supplied tools are necessary, please contact the instructor as soon as possible.
 
+## Course objectives
+
+To introduce the skills needed to perform reproducible and high quality computational research in biomedical sciences.
+
+## Course expectations
+
+The course should be fun, not a chore.
+You are a PhD student, and you need to drive your own education.
+Therefore, it is up to you to determine how much you want to get out of the course.
+The hands-on materials and assignments should not take you longer than two hours, and they should not be stressful.
+If it is taking you longer than two hours, you are either being too much of a perfectionist or you are having too much fun, which is fine.
+You should be respectful of all people in the course; show up on time, ask questions, engage with the material, and help your neighbor.
+Communicate with the instructor for any expected course absences or assignment extensions.
+
 ## GitHub repository
 
 All materials are available on GitHub with permissive open source licenses
@@ -42,23 +56,18 @@ We will not accept extra credit assignments.
 
 ## Late policies
 
+Assignments may be turned in one day late for a 10% grade penalty.
 We will accommodate reasonable requests for extension of project deadlines due to personal hardships.
 Please contact Dr. Way with these requests.
 Ideally, requests should be made at least two days before the deadline.
+All assignments must be submitted by the last day of class.
 
-## Course objectives
-
-To introduce the skills needed to perform reproducible and high quality computational research in biomedical sciences.
-
-## Course expectations
-
-The course should be fun, not a chore.
-You are a PhD student, and you need to drive your own education.
-Therefore, it is up to you to determine how much you want to get out of the course.
-The hands-on materials and assignments should not take you longer than two hours, and they should not be stressful.
-If it is taking you longer than two hours, you are either being too much of a perfectionist or you are having too much fun, which is fine.
-You should be respectful of all people in the course; show up on time, ask questions, engage with the material, and help your neighbor.
-Communicate with the instructor for any expected course absences or assignment extensions.
+## Class attendance
+In-person and on-time attendance is required.
+Students arriving more than 10 minutes after the scheduled start of class will be considered late.
+Chronic lateness (defined as unexcused lateness to more than 10% of class sessions) will result in a 10% penalty in the overall course grade.
+Unexcused lateness absences more than 10% of the time (defined to be chronic absenteeism by the US Department of Education) will also result in a 10% penalty.
+Please communicate as soon as possible with the instructor if circumstances outside your control (illness, hardships, etc.) affect your attendance, punctuality, or timely submission of assignments.
 
 ## Recommended pre-reading
 
