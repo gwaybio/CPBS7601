@@ -22,4 +22,6 @@
 | Breanna   | [@bremigio](https://github.com/bremigio)               | Rotating                                     |                           ceviche                            |
 | Christian | [@canderson318](https://github.com/canderson318)       | rotating                                     |                        chicken pot pie                       |
 | Luciana   | [@lucivargas](https://github.com/lucivargas)           | Lange                                        |                            Rice & Beans                      |
-| Raymond   | [@rlesiyon](https://github.com/rlesiyon)               | Rotating                                     |                            Roti + Curry	                     |
+| Raymond   | [@rlesiyon](https://github.com/rlesiyon)               | Rotating                                     |                            Roti + Curry	                     
+| Emily     | [@emilyekstrum}(https://github.com/emilyekstrum)       | Rotating                                     |
+                  Baguette
