@@ -34,9 +34,9 @@
     - What data are you visualizing?
     - Why is being interactive important?
     - How do you hope users will leverage your tool?
-    - Limitations:
-      - What are some limitations of your applications?
-      - Can they be improved with software or are they inherent in the data/approach?
+  - Limitations:
+    - What are some limitations of your applications?
+    - Can they be improved with software or are they inherent in the data/approach?
 
 ### Tips
 
